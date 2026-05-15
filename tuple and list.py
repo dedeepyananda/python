@@ -1,0 +1,11 @@
+#tuple
+a=(5,6.7,"pooja",4+9j,True,False)
+print(a)
+type(a)
+#length
+len(a)
+#count
+a.count(True)
+#index()
+a.index(4+9j)
+
